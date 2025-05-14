@@ -35,7 +35,7 @@ class_names = [
 ]
 
 # Streamlit UI
-st.set_page_config(page_title="Plant Disease Detection", page_icon="🌿")
+# st.set_page_config(page_title="Plant Disease Detection", page_icon="🌿")
 st.title("🌿 Plant Disease Detection using Deep Learning")
 st.write("Upload an image of a *plant leaf, and the app will predict the **disease* using a trained model.")
 
